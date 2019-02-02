@@ -1,0 +1,4 @@
+theme = "hugo-book"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "metadata"
