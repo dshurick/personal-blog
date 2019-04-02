@@ -6,7 +6,7 @@
     <description>Recent content in Introduction on metadata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 16:36:05 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -33,14 +33,24 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Key Steps When Approaching a New Data Science Project</title>
+      <link>/post/key-steps-when-approaching-a-new-data-science-project/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/key-steps-when-approaching-a-new-data-science-project/</guid>
+      <description>Figuring out what the customer wants to figure out.
+For most people, machine learning and big data are simply buzzwords. The process usually starts with someone in some company getting the bright idea that “we need to do something with machine learning” or “we need to do something with big data”, which is very poor reasoning, but that’s besides the point.
+Once the company tells me about their business and their problems (everyone has problems), I start figuring out how to convert that into problem statements that can be solved using data science, if possible.</description>
+    </item>
+    
+    <item>
+      <title>50 Ways To Live On Your Own Terms</title>
+      <link>/posts/50-ways-to-live-on-your-own-terms/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/50-ways-to-live-on-your-own-terms/</guid>
+      <description>1. Stop depending on caffeine “Addictions embody repetition without progress. They produce incapacity as a payoff.” — Steven Pressfield Although people think they perform better on caffeine, the truth is, they really don’t. Actually, we’ve become so dependent on caffeine that we use it to simply get back to our status-quo. When we’re off it, we underperform and become incapable.  Isn’t this absurd?
+The problem isn’t the caffeine. It’s the compulsion and dependence.</description>
     </item>
     
     <item>
@@ -91,7 +101,18 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/examples/</guid>
-      <description></description>
+      <description> SQL  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/docs/interview-sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/interview-sql/</guid>
+      <description>Interview Questions SQL Resources:  https://data36.com/sql-interview-questions-tech-screening-data-analysts/  Question 1 Let’s say you have two SQL tables: authors and books.
+The authors dataset has 1M+ rows; here’s the first six rows:
+   author_name book_name     author_1 book_1   author_1 book_2   author_2 book_3   author_2 book_4   author_2 book_5   author_3 book_6   &amp;hellip; &amp;hellip;    The books dataset also has 1M+ rows and here’s the first six:</description>
     </item>
     
     <item>
@@ -109,7 +130,9 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/with-toc/</guid>
-      <description></description>
+      <description>Interview Questions SQL Resources:  https://data36.com/sql-interview-questions-tech-screening-data-analysts/  Question 1 Let’s say you have two SQL tables: authors and books.
+The authors dataset has 1M+ rows; here’s the first six rows:
+   author_name book_name     author_1 book_1   author_1 book_2   author_2 book_3   author_2 book_4   author_2 book_5   author_3 book_6   &amp;hellip; &amp;hellip;    The books dataset also has 1M+ rows and here’s the first six:</description>
     </item>
     
     <item>
@@ -120,6 +143,15 @@ Follow the following steps:
       <guid>/docs/without-toc/</guid>
       <description>At me ipso nepotibus nunc celebratior genus Tanto oblite Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.
 Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/2019-02-07-key-steps-when-approaching-a-new-data-science-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-02-07-key-steps-when-approaching-a-new-data-science-project/</guid>
+      <description>Key Steps When Approaching a New Data Science Project       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>

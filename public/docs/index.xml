@@ -34,7 +34,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/examples/</guid>
-      <description></description>
+      <description> SQL  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/docs/interview-sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/interview-sql/</guid>
+      <description>Interview Questions SQL Resources:  https://data36.com/sql-interview-questions-tech-screening-data-analysts/  Question 1 Let’s say you have two SQL tables: authors and books.
+The authors dataset has 1M+ rows; here’s the first six rows:
+   author_name book_name     author_1 book_1   author_1 book_2   author_2 book_3   author_2 book_4   author_2 book_5   author_3 book_6   &amp;hellip; &amp;hellip;    The books dataset also has 1M+ rows and here’s the first six:</description>
     </item>
     
     <item>
@@ -52,7 +63,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/with-toc/</guid>
-      <description></description>
+      <description>Interview Questions SQL Resources:  https://data36.com/sql-interview-questions-tech-screening-data-analysts/  Question 1 Let’s say you have two SQL tables: authors and books.
+The authors dataset has 1M+ rows; here’s the first six rows:
+   author_name book_name     author_1 book_1   author_1 book_2   author_2 book_3   author_2 book_4   author_2 book_5   author_3 book_6   &amp;hellip; &amp;hellip;    The books dataset also has 1M+ rows and here’s the first six:</description>
     </item>
     
     <item>

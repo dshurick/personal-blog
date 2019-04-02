@@ -4,6 +4,7 @@ baseURL: https://example.com
 title: metadata
 theme: hugo-book
 disableKinds: ["taxonomy", "taxonomyTerm"]
+languageCode: "en-us"
 # themesDir: ../..
 
 # Book configuration
@@ -16,11 +17,11 @@ params:
 
   # Set bundle to render side menu
   # if not specified file structure and weights will be used
-  BookMenuBundle: /menu
+  BookMenuBundle: /menu/index
 
   # specify section of content to render as menu
   # if bookMenuBundle is not set, 'docs' is value by default
-  BookSection: docs
+  BookSection: posts
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
@@ -29,3 +30,9 @@ params:
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   BookEditPath: edit/master/exampleSite/content
+  
+ignoreFiles:
+  - "\\.Rmd$"
+  - "\\.Rmarkdown$"
+  - "_files$"
+  - "_cache$"

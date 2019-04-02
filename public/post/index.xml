@@ -6,20 +6,29 @@
     <description>Recent content in Posts on metadata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Key Steps When Approaching a New Data Science Project</title>
+      <link>/post/key-steps-when-approaching-a-new-data-science-project/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/key-steps-when-approaching-a-new-data-science-project/</guid>
+      <description>Figuring out what the customer wants to figure out.
+For most people, machine learning and big data are simply buzzwords. The process usually starts with someone in some company getting the bright idea that “we need to do something with machine learning” or “we need to do something with big data”, which is very poor reasoning, but that’s besides the point.
+Once the company tells me about their business and their problems (everyone has problems), I start figuring out how to convert that into problem statements that can be solved using data science, if possible.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/2019-02-07-key-steps-when-approaching-a-new-data-science-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-02-07-key-steps-when-approaching-a-new-data-science-project/</guid>
+      <description>Key Steps When Approaching a New Data Science Project       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>
